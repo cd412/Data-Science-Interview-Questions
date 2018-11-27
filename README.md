@@ -6,7 +6,7 @@ Please add to this list!
     * `SELECT * FROM table_name;`
     * SOURCE: https://www.tutorialspoint.com/sql/sql-select-query.htm
 
-* What are the attributes of a noramal distribution?
+* What are the attributes of a normal distribution?
     * Symmetrical bell-shaped curve
     * Mean = Median = Mode
     * The 68-95-99.7 (empirical) rule
