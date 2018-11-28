@@ -1,5 +1,6 @@
 # Data-Science-Interview-Questions
-Please add to this list!
+Please add to this list! Questions will be added regularly
+
 (Also, do not post questions that are not allowed to be shared)
 
 * How do you select all records from a table in SQL?
@@ -19,3 +20,9 @@ Please add to this list!
     * Eliminate the column if there are a large number of missing values or the column is not significant
     * SOURCE: https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
     
+* What is four attributes of a good estimator?
+    * Unbiassedness
+    * Consistency
+    * Efficiency
+    * Sufficiency
+    * SOURCE: http://www.tutorhelpdesk.com/homeworkhelp/Statistics-/Properties-Of-Good-Estimator-Assignment-Help.html
