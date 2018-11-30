@@ -25,4 +25,13 @@ Please add to this list! Questions will be added regularly
     * Consistency
     * Efficiency
     * Sufficiency
+    * SOURCE: John E. Freund's Mathematical Statistics with Applications (8th Edition)
     * SOURCE: http://www.tutorhelpdesk.com/homeworkhelp/Statistics-/Properties-Of-Good-Estimator-Assignment-Help.html
+    
+* What are the assumptions about input variables when doing linear regression?
+    * Weak exogeneity - predictor variables are fixed and are not random variables
+    * Linearity - response variable is a linear combination of the regression coefficients and the predictor variables
+    * Constant variance (a.k.a. homoscedasticity) - variance does not increase as input variables increase; no fanning in residuals
+    * Independence of errors
+    * No multicolinearity - input variables cannot be perfectly correlated with each other
+    * SOURCE: https://en.wikipedia.org/wiki/Linear_regression#Assumptions
