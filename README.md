@@ -43,4 +43,5 @@ Please add to this list! Questions will be added regularly
     * The harmonic mean of the precision and recall.
     * F-Score = (2 * recall * precision) / (recall + precision)
     * This makes it possible to compare models with low precision and high recall or vice versa.
+    * SOURCE: https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
     
