@@ -22,6 +22,12 @@ Please add to this list! Questions will be added regularly
 * How do you select all records from a table in SQL?
     * `SELECT * FROM table_name;`
     * SOURCE: https://www.tutorialspoint.com/sql/sql-select-query.htm
+    
+* What is the meaning of inheritance in object oriented programming?
+    * "is-a" relationship
+    * New objects by directly acquiring the attributes and behaviors of other objects and then extending or specializing them. 
+    * For example, `mountain_bike` inherits from `bicycle`
+    * SOURCE: https://www.learncpp.com/cpp-tutorial/111-introduction-to-inheritance/
 
 ## Data Science 
 * How do you handle missing values in an input variable?
