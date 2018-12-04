@@ -11,10 +11,10 @@ Please add to this list! Questions will be added regularly
     * SOURCE: https://en.wikipedia.org/wiki/Normal_distribution
     
 * What is four attributes of a good estimator?
-    * Unbiassedness
-    * Consistency
-    * Efficiency
-    * Sufficiency
+    * Unbiassedness - expected value is equals the population parameter being estimated
+    * Consistency - an estimator, approaches the parameter closer and closer as the sample size n increases
+    * Efficiency - the variance of the estimator is small
+    * Sufficiency - the estimator conveys as much information as is possible about the parameter. No additional information can improve the estimate
     * SOURCE: John E. Freund's Mathematical Statistics with Applications (8th Edition)
     * SOURCE: http://www.tutorhelpdesk.com/homeworkhelp/Statistics-/Properties-Of-Good-Estimator-Assignment-Help.html
     
